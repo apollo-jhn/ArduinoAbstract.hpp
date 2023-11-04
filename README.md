@@ -90,4 +90,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Note
 
-This project may or may not be always updated. It was created by the author to ease the process of writing code for new Arduino projects. Contributions, improvements, and suggestions are welcome. <i>Also thanks to ChatGPT by OpenAI for writing this documentation.</i>
+This project may or may not be always updated. It was created by the [author](https://github.com/apollo-jhn) to ease the process of writing code for new Arduino projects. Contributions, improvements, and suggestions are welcome. <i>Also thanks to [ChatGPT by OpenAI](https://openai.com/blog/chatgpt) for writing this documentation.</i>
