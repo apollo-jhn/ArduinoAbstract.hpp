@@ -80,7 +80,7 @@ class Potentiometer {
 			pinMode(this->pinNumber, INPUT);
 		}
 		int getValue(bool enable = true) {
-			if (!enable) {return -1};
+			if (!enable) {return -1;}
 			return analogRead(this->pinNumber);
 		}
 };
